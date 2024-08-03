@@ -108,8 +108,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, please contact:
 - **Name:** Arunima Anil
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- **Email:** arunima3628@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/arunima-anil-115691221/
 
 ## Acknowledgments
 
